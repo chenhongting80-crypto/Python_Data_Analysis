@@ -19,8 +19,6 @@ Main steps include:
 - Converting data types
 - Exporting the cleaned dataset
 
----
-
 ### 2. Netflix Movie Actor Rating Data Analysis
 
 This project focuses on organizing Netflix movie and TV actor rating data using Python and pandas. The goal is to calculate actors' average IMDb scores across different genres and identify actors associated with the highest-rated works in each genre.
@@ -38,8 +36,6 @@ Main steps include:
 - Calculating average IMDb scores by genre and actor
 - Identifying the highest-scoring actors in each genre
 - Exporting the cleaned datasets and final analysis result
-
----
 
 ### 3. Palmer Penguins Data Visualization
 
@@ -60,8 +56,6 @@ Main steps include:
 - Exploring relationships among numerical body measurements using pair plots
 - Using species and sex as grouping variables to examine visible clusters
 - Summarizing major visual patterns in penguin body measurements
-
----
 
 ### 4. Iris Species Data Analysis
 
