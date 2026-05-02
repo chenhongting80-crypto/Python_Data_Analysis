@@ -1,5 +1,7 @@
-# Python_Data_Analysis
-Practice projects for Python data analysis, covering data loading, assessment, cleaning, analysis, and visualization.
+# Python Data Analysis
+
+This repository contains practice projects for Python data analysis. The projects cover common steps in a data analysis workflow, including data loading, data assessment, data cleaning, exploratory data analysis, visualization, and basic statistical analysis.
+
 ## Projects
 
 ### 1. E-commerce Data Cleaning and Assessment
@@ -17,9 +19,11 @@ Main steps include:
 - Converting data types
 - Exporting the cleaned dataset
 
+---
+
 ### 2. Netflix Movie Actor Rating Data Analysis
 
-This project focuses on organizing Netflix movie and TV actor rating data using Python and pandas. The goal is to calculate actors’ average IMDb scores across different genres and identify actors associated with the highest-rated works in each genre.
+This project focuses on organizing Netflix movie and TV actor rating data using Python and pandas. The goal is to calculate actors' average IMDb scores across different genres and identify actors associated with the highest-rated works in each genre.
 
 Main steps include:
 
@@ -34,6 +38,8 @@ Main steps include:
 - Calculating average IMDb scores by genre and actor
 - Identifying the highest-scoring actors in each genre
 - Exporting the cleaned datasets and final analysis result
+
+---
 
 ### 3. Palmer Penguins Data Visualization
 
@@ -55,6 +61,24 @@ Main steps include:
 - Using species and sex as grouping variables to examine visible clusters
 - Summarizing major visual patterns in penguin body measurements
 
+---
+
+### 4. Iris Species Data Analysis
+
+This project analyzes the Iris dataset using Python, pandas, seaborn, matplotlib, and statistical testing. The goal is to compare numerical features between Iris-setosa and Iris-versicolor and examine which variables are useful for distinguishing the two species.
+
+Main steps include:
+
+- Loading the `Iris.csv` dataset
+- Assessing data structure and data quality
+- Cleaning and preparing the dataset
+- Comparing numerical variables between species
+- Visualizing feature distributions using histograms
+- Comparing feature values using box plots
+- Exploring relationships among variables using pair plots
+- Performing independent two-sample t-tests
+- Interpreting statistical results based on p-values and significance levels
+
 ## Tools Used
 
 - Python
@@ -62,4 +86,18 @@ Main steps include:
 - NumPy
 - matplotlib
 - seaborn
+- scipy
 - Jupyter Notebook
+
+## Skills Practiced
+
+- Data loading and inspection
+- Data cleaning
+- Handling missing and invalid values
+- Data type conversion
+- Grouped analysis
+- Data visualization
+- Exploratory data analysis
+- Basic statistical testing
+- Result interpretation
+- Jupyter Notebook documentation
